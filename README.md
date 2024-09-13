@@ -4,3 +4,4 @@
 [lab3]https://github.com/2303a51185/2303a51185AIML/blob/main/Untitled1.ipynb<br>
 [lab-04]https://github.com/2303a51185/2303a51185AIML/blob/main/Lab04_AIML.ipynb<br>
 [lab-05]https://github.com/2303a51185/2303a51185AIML/blob/main/Untitled5.ipynb
+[lab-06]https://github.com/2303a51185/2303a51185AIML/blob/main/Untitled6.ipynb
